@@ -1,0 +1,6 @@
+module CGSL [system] {
+  header "/opt/local/include/gsl/gsl_types.h"
+  link "gsl"
+  link "gslcblas"
+  export *
+}
