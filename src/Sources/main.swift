@@ -33,7 +33,7 @@
  //  Spinswift
  //
  //  Created by Pascal Thibaudeau on 24/03/2017.
- */ 
+ */
 
 import Foundation
 import CGSL
@@ -50,5 +50,4 @@ let α   = 0.02
 // a very small number
 let ε   = 1e-18
 
-print(μ0)
-
+print(μ0
